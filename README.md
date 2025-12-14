@@ -43,7 +43,7 @@ pip install numpy matplotlib
 
 5.clone the project on a new terminal with
 ```bash
-https://github.com/Pythonista-dev-cyber/Vehicle-Population-Analysis-System.git
+git clone https://github.com/Pythonista-dev-cyber/Vehicle-Population-Analysis-System.git
 ```
 and type code . to open vs code
 
