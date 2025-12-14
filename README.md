@@ -41,7 +41,7 @@ pip install numpy matplotlib
 
 4.go to the project directory.
 
-5.clone the project on a new terminal with
+5.clone the project on the terminal with
 ```bash
 git clone https://github.com/Pythonista-dev-cyber/Vehicle-Population-Analysis-System.git
 ```
